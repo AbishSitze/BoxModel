@@ -1,0 +1,16 @@
+ p {
+    width: 300px;
+    Height: 300px;
+
+    padding-top: 100px ;
+    padding-right: 200px ;
+    padding-bottom: 300px;
+    padding-left: 400px
+
+
+    border: 30px ;
+    border-style: dashed;
+    border-color: royalblue; 
+
+    margin: 0 auto ;
+ }
